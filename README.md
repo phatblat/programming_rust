@@ -1,3 +1,6 @@
+# Programming Rust
+
+Learning Rust
 
 ## 📄 License
 
