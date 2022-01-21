@@ -40,6 +40,7 @@ name = "actix-gcd"
 version = "0.1.0"
 dependencies = [
  "actix-web",
+ "hello",
  "serde",
 ]
 
@@ -670,6 +671,10 @@ name = "hashbrown"
 version = "0.11.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "ab5ef0d4909ef3724cc8cce6ccc8572c5c817592e9285f5464f8e86f8bd3726e"
+
+[[package]]
+name = "hello"
+version = "0.1.0"
 
 [[package]]
 name = "hermit-abi"
