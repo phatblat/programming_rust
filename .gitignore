@@ -13,6 +13,7 @@
 .swiftpm/
 .vscode/
 Carthage/
+Copy.toml
 Pods/
 bin/
 build/
